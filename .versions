@@ -1,0 +1,15 @@
+base64@1.0.3
+check@1.0.5
+coffeescript@1.0.6
+ejson@1.0.6
+json@1.0.3
+meteor@1.1.6
+package-version-parser@3.0.3
+practicalmeteor:chai@1.9.2_3
+practicalmeteor:loglevel@1.1.0_3
+sanjo:long-running-child-process@1.1.1
+sanjo:meteor-files-helpers@1.1.0_4
+sanjo:meteor-version@1.0.0
+underscore@1.0.3
+velocity:chokidar@1.0.1_1
+xolvio:private-packages@1.0.0

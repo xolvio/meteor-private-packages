@@ -1,0 +1,5 @@
+{
+  "dispatch:kernel": {
+    "tarball": "https://github.com/DispatchMe/meteor-kernel/archive/v0.0.4.tar.gz"
+  }
+}
