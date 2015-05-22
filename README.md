@@ -9,7 +9,7 @@ meteor add xolvio:private-packages
 ```
 
 Add your private packages to the `git-packages.json` file in the root of your project.
-Also [generate](https://github.com/settings/applications#personal-access-tokens) a token for private tarball access.
+Also [generate](https://github.com/settings/tokens/new) a token for private tarball access.
 
 ### Example
 
