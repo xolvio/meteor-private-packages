@@ -2,7 +2,7 @@ Package.describe({
   name: 'xolvio:private-packages',
   version: '1.0.0',
   summary: 'Allows you to add private packages to your app.',
-  git: '',
+  git: 'https://github.com/xolvio/meteor-private-packages.git',
   documentation: 'README.md'
 });
 
