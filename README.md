@@ -2,6 +2,11 @@
 
 Allows you to add private packages to your app.
 
+__Warning:__ Please use the npm package [mgp](https://www.npmjs.com/package/mgp) instead.
+A limitation in the build lifecycle makes this package not that useful as intended, unfortunately.
+The problem is that Meteor don't run the package code at all when your package depends on packages
+that Meteor cannot find.
+
 ## Getting Started
 
 ```bash
